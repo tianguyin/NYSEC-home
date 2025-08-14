@@ -139,12 +139,6 @@ const groups = [
         description: '大帅哥。看我别看太久，不然你的电脑就要沦陷了'
       },
       {
-        name: '雪落无痕',
-        skill: 'Crypto / 算法',
-        avatar: new URL('../assets/Members/雪落无痕.jpg', import.meta.url).href,
-        description: '掌管flag的神'
-      },
-      {
         name: 'Obito',
         skill: 'Web / 内网渗透',
         avatar: new URL('../assets/Members/Obito.jpg', import.meta.url).href,
@@ -155,12 +149,6 @@ const groups = [
         skill: 'Reverse / C++高端开发攻城狮',
         avatar: new URL('../assets/Members/Aotem.jpg', import.meta.url).href,
         description: '逆的了程序，却逆不了你的心'
-      },
-      {
-        name: '是天天天天谷音',
-        skill: 'Web / 云音科技CEO',
-        avatar: new URL('../assets/Members/汉武帝.jpg', import.meta.url).href,
-        description: '云音科技，伴你相随。股票代码：000001'
       },
       {
         name: '十二',
