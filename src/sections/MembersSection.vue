@@ -146,8 +146,8 @@ const groups = [
       },
       {
         name: 'TianGuYin',
-        skill: '严厉的父亲',
-        avatar: new URL('../assets/Members/Obito.jpg', import.meta.url).href,
+        skill: '汉武帝',
+        avatar: new URL('http://qlogo2.store.qq.com/qzone/2683691981/2683691981/100', import.meta.url).href,
         description: '最严厉的父亲'
       },
       {
