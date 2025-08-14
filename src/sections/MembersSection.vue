@@ -145,6 +145,12 @@ const groups = [
         description: 'pip install iscc-flag：一键获得flag'
       },
       {
+        name: 'TianGuYin',
+        skill: '严厉的父亲',
+        avatar: new URL('../assets/Members/Obito.jpg', import.meta.url).href,
+        description: '最严厉的父亲'
+      },
+      {
         name: 'Aotem',
         skill: 'Reverse / C++高端开发攻城狮',
         avatar: new URL('../assets/Members/Aotem.jpg', import.meta.url).href,
